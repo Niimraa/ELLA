@@ -57,9 +57,10 @@ Ella was built using a combination of web technologies and AI tools:
 ---
 
 ## Built With
-- **CSS**
-- **Gemini**
-- **HTML**
-- **JavaScript**
 - **Node.js**
 - **Angular**
+- **Gemini 1.5 pro model**
+- - **CSS**
+- **HTML**
+- **JavaScript**
+
