@@ -27,7 +27,7 @@ Ella is a comprehensive platform designed to empower women and girls in their ca
 ## How We Built It
 Ella was built using a combination of web technologies and AI tools:
 
-- **Technologies:** HTML, CSS, JavaScript, Node.js, Angular  
+- **Technologies:** Node.js, Angular, HTML, CSS, JavaScript,  
 - **AI Tool:** Gemini 1.5 Pro model for the AI-powered chatbot
 
 ---
@@ -54,13 +54,4 @@ Ella was built using a combination of web technologies and AI tools:
 - **Advanced AI Features:** Integrating predictive career path recommendations and skill-building resources.
 - **Mobile App Development:** Creating a mobile app version to make Ella even more accessible for users on the go.
 
----
-
-## Built With
-- **Node.js**
-- **Angular**
-- **Gemini 1.5 pro model**
-- - **CSS**
-- **HTML**
-- **JavaScript**
 
