@@ -5,7 +5,7 @@ A recent UN report states that while the amount of women and girls having access
 
 This is where **Ella** comes in! Bridging the gap between resources and results, Ella answers questions and supports women and girls who are looking to expand their education and progress in their careers.
 
----
+
 
 ## What It Does
 Ella is a comprehensive platform designed to empower women and girls in their career journeys by providing guidance, mentorship, and valuable resources. Key features include:
