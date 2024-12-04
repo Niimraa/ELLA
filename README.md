@@ -1,11 +1,13 @@
 # Ella
 Ella is a platform that empowers women and girls by providing mentorship, career guidance, and access to valuable educational resources. It features an AI chatbot that delivers personalized roadmaps, advice, and support to help users achieve their career and educational goals.
+![Screenshot 2024-11-13 132722](https://github.com/user-attachments/assets/f31891b5-0520-4859-82dd-6dc6a099b292)
 
 ## Inspiration
 A recent UN report states that while the amount of women and girls having access to education is increasing, 39% of young women fail to complete upper-secondary school. In the digital age, we have more access to a wide array of educational resources and tools than ever before. However, for these tools to work effectively, there needs to be an intermediary to funnel important information and provide a neat, effective roadmap for women and girls to access high-quality, affordable education with just an internet connection.
 
 This is where **Ella** comes in! Bridging the gap between resources and results, Ella answers questions and supports women and girls who are looking to expand their education and progress in their careers.
 
+![Chat1](https://github.com/user-attachments/assets/09d96240-c4cf-4fa7-9550-eba08ce1a7fb)
 
 
 ## What It Does
@@ -13,16 +15,24 @@ Ella is a comprehensive platform designed to empower women and girls in their ca
 
 - **Mentorship Programs:**  
   Ella connects users with professionals across various fields, offering insights, career advice, and personal stories to inspire and guide users in their career paths.
+![mentroship](https://github.com/user-attachments/assets/0d6140e3-b984-42d7-89c9-2c4ba9f38c65)
+
 
 - **Advice & Insights:**  
   The platform features stories and practical advice on challenges women face in the workplace, such as handling microaggressions and ensuring workplace safety.
+![Adive](https://github.com/user-attachments/assets/ecdbce30-2b4b-4ffe-a82c-e2ea68e4a4ab)
+
 
 - **Career Events:**  
   Ella provides users with access to a calendar of upcoming workshops and networking events, such as tech and leadership workshops hosted by companies like Google and IBM.
 
+![Events](https://github.com/user-attachments/assets/31c4eebe-dc8f-4b25-ae04-ddd1e1227b2a)
+
 - **AI Chatbot:**  
   Ella includes an AI-powered chatbot that acts as a personal learning assistant, providing users with personalized roadmaps, educational guidance, and career resources based on their interests and current educational stage.
+![Chat1](https://github.com/user-attachments/assets/dd125630-68b5-4f57-b183-2f3dfb7667fe)
 
+![Chat2](https://github.com/user-attachments/assets/a765dc27-bcbf-42a5-b691-19fffd090202)
 
 
 ## How We Built It
