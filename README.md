@@ -7,7 +7,6 @@ A recent UN report states that while the amount of women and girls having access
 
 This is where **Ella** comes in! Bridging the gap between resources and results, Ella answers questions and supports women and girls who are looking to expand their education and progress in their careers.
 
-![Chat1](https://github.com/user-attachments/assets/09d96240-c4cf-4fa7-9550-eba08ce1a7fb)
 
 
 ## What It Does
@@ -32,7 +31,6 @@ Ella is a comprehensive platform designed to empower women and girls in their ca
   Ella includes an AI-powered chatbot that acts as a personal learning assistant, providing users with personalized roadmaps, educational guidance, and career resources based on their interests and current educational stage.
 ![Chat1](https://github.com/user-attachments/assets/dd125630-68b5-4f57-b183-2f3dfb7667fe)
 
-![Chat2](https://github.com/user-attachments/assets/a765dc27-bcbf-42a5-b691-19fffd090202)
 
 
 ## How We Built It
